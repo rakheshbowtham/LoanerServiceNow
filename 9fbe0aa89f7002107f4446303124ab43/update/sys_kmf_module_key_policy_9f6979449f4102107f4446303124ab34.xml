@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_kmf_module_key_policy">
+    <sys_kmf_module_key_policy action="INSERT_OR_UPDATE">
+        <crypto_module display_value="com_glide_web_service_consumer_glideencrypter">2ca78142e7222010628a20c343f6a92e</crypto_module>
+        <key_type display_value="Symmetric Key Encryption Key">ca005cf7c7103300af4d43c6f0976328</key_type>
+        <last_enforced>2024-03-15 06:21:00</last_enforced>
+        <result>reject</result>
+        <sys_class_name>sys_kmf_module_key_policy</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2024-03-15 06:21:00</sys_created_on>
+        <sys_id>9f6979449f4102107f4446303124ab34</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name/>
+        <sys_package display_value="Leaner Request" source="x_cdltd_leaner_req">9fbe0aa89f7002107f4446303124ab43</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="Leaner Request">9fbe0aa89f7002107f4446303124ab43</sys_scope>
+        <sys_update_name>sys_kmf_module_key_policy_9f6979449f4102107f4446303124ab34</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2024-03-15 06:21:00</sys_updated_on>
+    </sys_kmf_module_key_policy>
+</record_update>

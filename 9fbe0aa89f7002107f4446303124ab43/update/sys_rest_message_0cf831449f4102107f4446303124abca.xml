@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_rest_message">
+    <sys_rest_message action="INSERT_OR_UPDATE">
+        <access>package_private</access>
+        <authentication_type>basic</authentication_type>
+        <basic_auth_password/>
+        <basic_auth_profile display_value="admin">d86979449f4102107f4446303124ab68</basic_auth_profile>
+        <basic_auth_user/>
+        <description/>
+        <name>Test</name>
+        <oauth2_profile/>
+        <protocol_name/>
+        <rest_endpoint>https://nowlearning-nlinst01531206-0001.lab.service-now.com/api/now/table/u_password_vault?sysparm_query=u_asset%3DP1000640&amp;sysparm_fields=u_password&amp;sysparm_limit=1</rest_endpoint>
+        <sys_class_name>sys_rest_message</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2024-03-15 06:20:30</sys_created_on>
+        <sys_id>0cf831449f4102107f4446303124abca</sys_id>
+        <sys_mod_count>1</sys_mod_count>
+        <sys_name>Test</sys_name>
+        <sys_package display_value="Leaner Request" source="x_cdltd_leaner_req">9fbe0aa89f7002107f4446303124ab43</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="Leaner Request">9fbe0aa89f7002107f4446303124ab43</sys_scope>
+        <sys_update_name>sys_rest_message_0cf831449f4102107f4446303124abca</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2024-03-15 06:21:07</sys_updated_on>
+        <use_basic_auth>false</use_basic_auth>
+        <use_mutual_auth>false</use_mutual_auth>
+    </sys_rest_message>
+</record_update>
